@@ -1,7 +1,7 @@
 ---
 title: "Initial Commit - Get to know me"
 date: 2025-09-26 22:00:00 +0000
-categories: [Embedded, Robotics, Aerospace, Controls]
+categories: [Daily, Embedded, Robotics, Aerospace, Controls]
 tags: [First Post]
 ---
 
