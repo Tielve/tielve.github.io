@@ -8,6 +8,6 @@ order: 5                # controls tab position; lower shows earlier
         width="100%" height="900px">
   <p>
     Your browser can’t display PDFs inline.
-    <a href="{{ '/assets/resume.pdf' | relative_url }}">Download the resume</a>.
+    <a href="{{ '/assets/JonathanTielveResume.pdf' | relative_url }}">Download the resume</a>.
   </p>
 </object>
