@@ -18,12 +18,11 @@ title: Jonathan Tielve's Dev Blog # the main title
 
 tagline: Embedded Development, Control Systems, and general learning
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: Jonathan Tielve, Embedded developer working on Aerospace, Robotics and control systems.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://tielve.github.io"
 
 github:
   username: Tielve # change to your GitHub username
@@ -98,7 +97,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/pic.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
